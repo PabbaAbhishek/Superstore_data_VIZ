@@ -5,11 +5,14 @@ Softwares used:
 * Tableau public
 * Microsoft excel
 * Microsoft Powerpoint
+* Jupyter Notebook
 
 Packages used for machine learning model
 * Scikit learn
 * Pandas
 * Matplotlib
+* Seaborn
+* Numpy
 
 1) The **SampleSuperstore-beginner.xlsx** dataset is first analyzed and using Tableau the analysis is further done through visualization.  
 **It was found that, higher discounts are leading to higher losses. So, to undertsand the change in profits if discount is reduced, a random forest machine learning model is used.**
